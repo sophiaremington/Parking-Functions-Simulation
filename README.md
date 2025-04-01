@@ -49,5 +49,5 @@ We simulate thousands of parking scenarios with random preferences, VIP distribu
 
 ---
 
-🔗 **[Click here to view the full interactive simulation (HTML)](https://your-username.github.io/your-repo-name/ParkingFunctionsFinal.html)**
+🔗 **[Click here to view the full interactive simulation (HTML)](https://github.com/sophiaremington/Parking-Functions-Simulation/blob/main/ParkingFunctionsFinal.html)**
 
